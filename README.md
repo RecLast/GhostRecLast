@@ -33,7 +33,7 @@ PS: Proje **MIT Lisansı** ile sunulmuştur ve dilediğiniz gibi kullanıma aç�
 
 ### Picture
 
-![GhostRecLast](https://i.ibb.co/NnYFc9S/2.jpg)
+![GhostRecLast](https://i.ibb.co/zHdzxDS/ghostrec.png)
 
 ### Links
 
