@@ -1,7 +1,7 @@
 # GhostRecLast 
 FlappyBird Clone Game - Ghost RecLast - UnityTestProject - Unity Version ; 2020.2.2f1
 
-![GitHub](https://img.shields.io/github/license/RecLast/GhostRecLast?logo=github) ![Discord](https://img.shields.io/discord/293337322508910593?logo=discord&logoColor=fff) ![Twitter](https://img.shields.io/twitter/follow/RecLastTV?style=social) ![Commit](https://img.shields.io/github/last-commit/RecLast/GhostRecLast) ![Size](https://img.shields.io/github/repo-size/RecLast/GhostRecLast) ![Download](https://img.shields.io/github/downloads/RecLast/GhostRecLast/total) ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/RecLast/GhostRecLast)
+![GitHub](https://img.shields.io/github/license/RecLast/GhostRecLast?logo=github) ![Discord](https://img.shields.io/discord/293337322508910593?logo=discord&logoColor=fff) ![Twitter](https://img.shields.io/twitter/follow/RecLastTV?style=social) ![Commit](https://img.shields.io/github/last-commit/RecLast/GhostRecLast) ![Size](https://img.shields.io/github/repo-size/RecLast/GhostRecLast) ![GitHub all releases](https://img.shields.io/github/downloads/RecLast/GhostRecLast/total?color=green) ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/RecLast/GhostRecLast)
 
 ### English
 
