@@ -31,6 +31,10 @@ Unity'de yeniyseniz bu tarz projeler sizin için faydalı bir klavuz olabilir.
 
 PS: Proje **MIT Lisansı** ile sunulmuştur ve dilediğiniz gibi kullanıma açıktır. Değişiklik yapabilir, geliştirebilir ve ticari olarak kullanabilirsiniz. Tek beklentim ve isteğim telif hakkı kısmındaki isimleri silmemeniz. Emeğe saygı anlayışınıza güvenerek bu tarz projeleri yayınlıyorum.
 
+### Picture
+
+![GhostRecLast](https://i.ibb.co/zHdzxDS/ghostrec.png)
+
 ### Links
 
 [Youtube](https://www.youtube.com/watch?v=R15MQj-RHUo) 
@@ -39,7 +43,7 @@ PS: Proje **MIT Lisansı** ile sunulmuştur ve dilediğiniz gibi kullanıma aç�
 
 [GooglePlaystore](https://play.google.com/store/apps/details?id=com.RecLastGameStudio.GhostRecLast)
 
-`#reclast #reclastgamestudio #reclasttv #indie #bağımsız #oyun #ghostreclast #waytoreclast`
+`#reclast #umiteskistudio #reclasttv #indie #bağımsız #oyun #ghostreclast #waytoreclast`
 
 ![Github](https://img.shields.io/github/followers/RecLast?style=social) - ![Twitter](https://img.shields.io/twitter/follow/RecLastTV?style=social) - ![Youtube](https://img.shields.io/youtube/views/R15MQj-RHUo?style=social) - ![Twitch](https://img.shields.io/twitch/status/RecLastTV?style=social)
 
